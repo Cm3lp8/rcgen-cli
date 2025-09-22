@@ -1,6 +1,6 @@
 # rcgen-cli
 
-rcgen-cli is a simple command-line tool to generate self-signed certificates, ideal for prototyping and TLS validation, especially when working with QUIC or HTTP/3.
+rcgen-cli is a simple command-line tool to generate self-signed certificates, for prototyping and TLS validation.
 
 This binary is built on top of the rcgen
  crate.
